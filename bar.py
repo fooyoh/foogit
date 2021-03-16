@@ -6,5 +6,11 @@ def get(a):
     
 def bar(a):
     return a
+
    
 confusing line
+    
+add this new line
+>>>>>>> dem
+
+
