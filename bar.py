@@ -6,3 +6,5 @@ def get(a):
     
 def bar(a):
     return a
+   
+confusing line
